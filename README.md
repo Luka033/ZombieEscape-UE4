@@ -5,3 +5,6 @@ The objective is to escape. You can do so by finding your way out of each room b
 For every door you open to a new area you get more zombies, amount depends on map. Ammo is limited so use it wisely. Aim for the head.
 
 https://www.youtube.com/watch?v=J1b8HZYrKk4&feature=youtu.be
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J1b8HZYrKk4/0.jpg)](https://www.youtube.com/watch?v=J1b8HZYrKk4)
+
